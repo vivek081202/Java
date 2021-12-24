@@ -11,7 +11,7 @@ public class Array1 {
         {
             System.out.println(marks[i]);
         }
-        String[] Names = {"Vivek","Ankita","Aditya"};
+        String[] Names = {"Vivek","Ankita"};
 
         int numbers[] = new int[5];
     }
